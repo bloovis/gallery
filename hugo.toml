@@ -1,0 +1,52 @@
+copyright = "© 2025 Mark Alexander"
+baseURL = 'https://www.bloovis.com/gallery'
+languageCode = 'en-us'
+title = 'Gallery'
+theme = "gallery"
+
+[params]
+  defaultTheme = "light"
+  description = "Photos at bloovis.com"
+  title = "Gallery"
+  [params.author]
+    email = "marka [AT] pobox [DOT] com"
+    name = "Mark Alexander"
+  [params.socialIcons]
+    #facebook = "https://www.facebook.com/"
+    #instagram = "https://www.instagram.com/"
+    github = "https://github.com/bloovis?tab=repositories"
+    #youtube = "https://www.youtube.com/"
+    email = "mailto:marka [AT] pobox [DOT] com"
+    website = "https://www.bloovis.com/"
+    #mastodon = "https://example.com"
+    #pixelfed = "https://example.com"
+    #mixcloud = "https://example.com"
+    flickr = "https://www.flickr.com/photos/bloovis/albums"
+    #500px = "https://500px"
+  [params.gallery]
+    #boxSpacing = 10
+    #targetRowHeight = 288
+    #targetRowHeightTolerance = 0.25
+
+[outputs]
+  home = ["HTML", "RSS"]
+  page = ["HTML"]
+  section = ["HTML"]
+
+[imaging]
+  quality = 75
+  resampleFilter = "CatmullRom"
+  [imaging.exif]
+    disableDate = false
+    disableLatLong = true
+    includeFields = "ImageDescription|Orientation"
+
+#[menu]
+#  [[menu.footer]]
+#    name = "GitHub"
+#    url = ""
+#    weight = 3
+
+[services]
+  [services.rss]
+    limit = 100
