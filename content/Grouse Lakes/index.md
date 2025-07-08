@@ -28,6 +28,20 @@ resources:
     title: Snow at Upper Rock Lake
   - src: IMG_20241110_141249_789.jpg
     title: More autumn colors in the quaking aspens.
+  - src: IMG_20250707_093124_485.jpg
+    title: Lupine
+  - src: IMG_20250707_105317_579.jpg
+    title: Penstemon and butterfly
+  - src: IMG_20250707_105819_955.jpg
+    title: Indian Paintbrush and Mariposa Lily
+  - src: IMG_20250707_111612_526.jpg
+    title: Dead tree
+  - src: IMG_20250707_112144_620.jpg
+    title: California Goldfields
+  - src: IMG_20250707_112712_442.jpg
+    title: Acres of lupines buzzing with bees on the Bowman Mount Trail
+  - src: IMG_20250707_123914_740.jpg
+    title: Creek in Loney Meadow
 ---
 
 A lake-filled region of the Sierra in Nevada County. I started visiting this area on a weekly basis after moving to the Sierra foothills in May 2024. 

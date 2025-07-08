@@ -92,6 +92,10 @@ resources:
     title: Door is mostly installed.  Here you can see jigs I used to hold it in place during installation.  Eventually the gaps will be filled in with spray foam.
   - src: IMG_20250617_163151_388.jpg
     title: Window on the north gable end. There is flashing membrane under the bottom flange, and eventually more membrane will cover the side flanges and then the top flange.
+  - src: IMG_20250702_160049_268.jpg
+    title: "The insulation is complete.  To work on the roof, I'll be using this long extension ladder set at a 45 degree angle directly on the roof, with the bottom of the ladder anchored on the ground."
+  - src: IMG_20250702_160258_682.jpg
+    title: "I designed jigs to hold the roof panels in place for installation.  These are temporarily attached to wall strapping."
 ---
 
 8x14 tiny guest house based on FirstDay Cottage design. This is a
