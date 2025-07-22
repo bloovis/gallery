@@ -96,6 +96,12 @@ resources:
     title: "The insulation is complete.  To work on the roof, I'll be using this long extension ladder set at a 45 degree angle directly on the roof, with the bottom of the ladder anchored on the ground."
   - src: IMG_20250702_160258_682.jpg
     title: "I designed jigs to hold the roof panels in place for installation.  These are temporarily attached to wall strapping."
+  - src: IMG_20250720_180135_352.jpg
+    title: "Three windows with trim, and finished (polyurethane) floor on north end."
+  - src: IMG_20250720_180245_966.jpg
+    title: "Roof panels on the west side, with the ladder I used to install the panels."
+  - src: IMG_20250720_180409_951.jpg
+    title: "The north end trim and drip edge, and the west roof with the ridge cap."
 ---
 
 8x14 tiny guest house based on FirstDay Cottage design. This is a
