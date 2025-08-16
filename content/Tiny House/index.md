@@ -102,6 +102,20 @@ resources:
     title: "Roof panels on the west side, with the ladder I used to install the panels."
   - src: IMG_20250720_180409_951.jpg
     title: "The north end trim and drip edge, and the west roof with the ridge cap."
+  - src: IMG_20250724_110600_828.jpg
+    title: "The interior is usable now.  I added a bed, a bedside table, shelves, a camp chair, and a tiny built-in laptop desk (not shown)."
+  - src: IMG_20250802_164641_624.jpg
+    title: "The shiplap siding finally arrived.  It is pre-primed, saving some work.  I painted the boards before installing them."
+  - src: IMG_20250802_164704_168.jpg
+    title: "I used a scrap board held against the bottom of the wall to hold the siding in place while screwing it to the strapping."
+  - src: IMG_20250802_164921_027.jpg
+    title: "To get internet, I ran a 250 foot coax cable (the orange one) from the main house to the tiny house, with a coax-to-ethernet adapter at each end."
+  - src: IMG_20250816_110413_452.jpg
+    title: "The siding and entry stairs are done."
+  - src: IMG_20250816_110451_025.jpg
+    title: "The final step was cutting and hemming curtains.  I used the laptop desk in the tiny house as the sewing station."
+  - src: IMG_20250816_110559_726.jpg
+    title: "The curtains block the rather strong mid-day sun, but let in some light."
 ---
 
 8x14 tiny guest house based on FirstDay Cottage design. This is a
